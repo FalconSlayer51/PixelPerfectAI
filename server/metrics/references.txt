@@ -1,0 +1,351 @@
+Epoch: 32, g_loss: 17.3364, d_loss: 0.6402, PSNR: 25.2966, SSIM: 0.7554
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 33, g_loss: 17.0253, d_loss: 0.6358, PSNR: 25.2641, SSIM: 0.7561
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 34, g_loss: 16.7273, d_loss: 0.6318, PSNR: 25.2503, SSIM: 0.7570
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 35, g_loss: 16.4445, d_loss: 0.6280, PSNR: 25.3473, SSIM: 0.7572
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 36, g_loss: 16.1767, d_loss: 0.6244, PSNR: 25.4307, SSIM: 0.7570
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 37, g_loss: 15.9251, d_loss: 0.6210, PSNR: 25.2906, SSIM: 0.7562
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 38, g_loss: 15.6878, d_loss: 0.6177, PSNR: 25.1008, SSIM: 0.7555
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 39, g_loss: 15.4603, d_loss: 0.6147, PSNR: 24.9695, SSIM: 0.7560
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 40, g_loss: 15.2418, d_loss: 0.6118, PSNR: 25.1796, SSIM: 0.7564
+100%|██████████| 41/41 [00:26<00:00,  1.57it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 41, g_loss: 15.0349, d_loss: 0.6093, PSNR: 25.1524, SSIM: 0.7560
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 42, g_loss: 14.8411, d_loss: 0.6183, PSNR: 25.2470, SSIM: 0.7572
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 43, g_loss: 14.6559, d_loss: 0.6214, PSNR: 25.3454, SSIM: 0.7599
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 44, g_loss: 14.4714, d_loss: 0.6196, PSNR: 25.4899, SSIM: 0.7608
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 45, g_loss: 14.2899, d_loss: 0.6175, PSNR: 25.6014, SSIM: 0.7614
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 46, g_loss: 14.1145, d_loss: 0.6152, PSNR: 25.5888, SSIM: 0.7598
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 47, g_loss: 13.9454, d_loss: 0.6128, PSNR: 25.5790, SSIM: 0.7601
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 48, g_loss: 13.7819, d_loss: 0.6106, PSNR: 25.6276, SSIM: 0.7599
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 49, g_loss: 13.6260, d_loss: 0.6086, PSNR: 25.5053, SSIM: 0.7587
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 50, g_loss: 13.4768, d_loss: 0.6067, PSNR: 25.4619, SSIM: 0.7582
+100%|██████████| 41/41 [00:26<00:00,  1.56it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 51, g_loss: 13.3332, d_loss: 0.6048, PSNR: 25.5753, SSIM: 0.7589
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 52, g_loss: 13.1924, d_loss: 0.6028, PSNR: 25.7156, SSIM: 0.7607
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 53, g_loss: 13.0557, d_loss: 0.6008, PSNR: 25.6859, SSIM: 0.7607
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 54, g_loss: 12.9244, d_loss: 0.5990, PSNR: 25.6817, SSIM: 0.7600
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 55, g_loss: 12.7997, d_loss: 0.5971, PSNR: 25.6156, SSIM: 0.7592
+100%|██████████| 41/41 [00:26<00:00,  1.57it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 56, g_loss: 12.6802, d_loss: 0.5954, PSNR: 25.4635, SSIM: 0.7597
+100%|██████████| 41/41 [00:25<00:00,  1.58it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 57, g_loss: 12.5661, d_loss: 0.5937, PSNR: 25.4257, SSIM: 0.7593
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 58, g_loss: 12.4564, d_loss: 0.5921, PSNR: 25.3782, SSIM: 0.7593
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 59, g_loss: 12.3476, d_loss: 0.5905, PSNR: 25.5158, SSIM: 0.7611
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 60, g_loss: 12.2374, d_loss: 0.5890, PSNR: 25.5561, SSIM: 0.7618
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 61, g_loss: 12.1264, d_loss: 0.5875, PSNR: 25.6302, SSIM: 0.7619
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 62, g_loss: 12.0167, d_loss: 0.5861, PSNR: 25.6541, SSIM: 0.7613
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 63, g_loss: 11.9096, d_loss: 0.5847, PSNR: 25.5694, SSIM: 0.7607
+100%|██████████| 41/41 [00:26<00:00,  1.58it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 64, g_loss: 11.8053, d_loss: 0.5834, PSNR: 25.6248, SSIM: 0.7618
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 65, g_loss: 11.7071, d_loss: 0.5821, PSNR: 25.4034, SSIM: 0.7611
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 66, g_loss: 11.6108, d_loss: 0.5808, PSNR: 25.5288, SSIM: 0.7620
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 67, g_loss: 11.5156, d_loss: 0.5796, PSNR: 25.4835, SSIM: 0.7616
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 68, g_loss: 11.4238, d_loss: 0.5834, PSNR: 25.4251, SSIM: 0.7599
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 69, g_loss: 11.3370, d_loss: 0.5936, PSNR: 25.4299, SSIM: 0.7600
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 70, g_loss: 11.2554, d_loss: 0.5934, PSNR: 25.4186, SSIM: 0.7589
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 71, g_loss: 11.1782, d_loss: 0.5931, PSNR: 25.1685, SSIM: 0.7577
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 72, g_loss: 11.1014, d_loss: 0.5920, PSNR: 25.0541, SSIM: 0.7576
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 73, g_loss: 11.0217, d_loss: 0.5908, PSNR: 25.2278, SSIM: 0.7596
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 74, g_loss: 10.9417, d_loss: 0.5896, PSNR: 25.3571, SSIM: 0.7608
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 75, g_loss: 10.8618, d_loss: 0.5884, PSNR: 25.6892, SSIM: 0.7617
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 76, g_loss: 10.7838, d_loss: 0.5872, PSNR: 25.7835, SSIM: 0.7614
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 77, g_loss: 10.7098, d_loss: 0.5861, PSNR: 25.6627, SSIM: 0.7602
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 78, g_loss: 10.6420, d_loss: 0.5850, PSNR: 25.3012, SSIM: 0.7575
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 79, g_loss: 10.5788, d_loss: 0.5839, PSNR: 25.0132, SSIM: 0.7575
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 80, g_loss: 10.5173, d_loss: 0.5829, PSNR: 25.1207, SSIM: 0.7574
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 81, g_loss: 10.4566, d_loss: 0.5819, PSNR: 25.0025, SSIM: 0.7554
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 82, g_loss: 10.3956, d_loss: 0.5809, PSNR: 24.9559, SSIM: 0.7557
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 83, g_loss: 10.3362, d_loss: 0.5799, PSNR: 25.3440, SSIM: 0.7581
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 84, g_loss: 10.2772, d_loss: 0.5790, PSNR: 25.4544, SSIM: 0.7605
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 85, g_loss: 10.2180, d_loss: 0.5782, PSNR: 25.4180, SSIM: 0.7605
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 86, g_loss: 10.1583, d_loss: 0.5773, PSNR: 25.5234, SSIM: 0.7615
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 87, g_loss: 10.0978, d_loss: 0.5764, PSNR: 25.7378, SSIM: 0.7627
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 88, g_loss: 10.0369, d_loss: 0.5759, PSNR: 25.7469, SSIM: 0.7623
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 89, g_loss: 9.9764, d_loss: 0.5759, PSNR: 25.7269, SSIM: 0.7616
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 90, g_loss: 9.9170, d_loss: 0.5752, PSNR: 25.5662, SSIM: 0.7613
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 91, g_loss: 9.8589, d_loss: 0.5746, PSNR: 25.5517, SSIM: 0.7603
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 92, g_loss: 9.8020, d_loss: 0.5740, PSNR: 25.5623, SSIM: 0.7610
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 93, g_loss: 9.7461, d_loss: 0.5732, PSNR: 25.5952, SSIM: 0.7624
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 94, g_loss: 9.6912, d_loss: 0.5725, PSNR: 25.8286, SSIM: 0.7629
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 95, g_loss: 9.6372, d_loss: 0.5717, PSNR: 25.9379, SSIM: 0.7640
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 96, g_loss: 9.5838, d_loss: 0.5709, PSNR: 25.7402, SSIM: 0.7637
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 97, g_loss: 9.5313, d_loss: 0.5702, PSNR: 25.6516, SSIM: 0.7632
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 98, g_loss: 9.4797, d_loss: 0.5695, PSNR: 25.8033, SSIM: 0.7636
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 99, g_loss: 9.4276, d_loss: 0.5688, PSNR: 25.7025, SSIM: 0.7629
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 100, g_loss: 9.3764, d_loss: 0.5681, PSNR: 25.7111, SSIM: 0.7630
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 101, g_loss: 9.3252, d_loss: 0.5674, PSNR: 25.7670, SSIM: 0.7653
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 102, g_loss: 9.2746, d_loss: 0.5668, PSNR: 25.8233, SSIM: 0.7659
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 103, g_loss: 9.2242, d_loss: 0.5661, PSNR: 25.7453, SSIM: 0.7656
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 104, g_loss: 9.1752, d_loss: 0.5655, PSNR: 25.8053, SSIM: 0.7646
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 105, g_loss: 9.1288, d_loss: 0.5648, PSNR: 25.4199, SSIM: 0.7630
+100%|██████████| 41/41 [00:26<00:00,  1.55it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 106, g_loss: 9.0881, d_loss: 0.5642, PSNR: 25.5137, SSIM: 0.7620
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 107, g_loss: 9.0454, d_loss: 0.5636, PSNR: 25.4627, SSIM: 0.7652
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 108, g_loss: 9.0035, d_loss: 0.5630, PSNR: 25.3618, SSIM: 0.7634
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 109, g_loss: 8.9630, d_loss: 0.5624, PSNR: 25.3620, SSIM: 0.7628
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 110, g_loss: 8.9241, d_loss: 0.5619, PSNR: 25.3459, SSIM: 0.7627
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 111, g_loss: 8.8861, d_loss: 0.5613, PSNR: 25.3229, SSIM: 0.7648
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 112, g_loss: 8.8477, d_loss: 0.5608, PSNR: 25.5712, SSIM: 0.7664
+100%|██████████| 41/41 [00:25<00:00,  1.58it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 113, g_loss: 8.8068, d_loss: 0.5608, PSNR: 25.7494, SSIM: 0.7683
+100%|██████████| 41/41 [00:25<00:00,  1.58it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 114, g_loss: 8.7637, d_loss: 0.5666, PSNR: 25.9638, SSIM: 0.7702
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 115, g_loss: 8.7201, d_loss: 0.5677, PSNR: 25.8365, SSIM: 0.7697
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 116, g_loss: 8.6796, d_loss: 0.5675, PSNR: 25.7502, SSIM: 0.7684
+100%|██████████| 41/41 [00:25<00:00,  1.63it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 117, g_loss: 8.6397, d_loss: 0.5670, PSNR: 25.8851, SSIM: 0.7673
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 118, g_loss: 8.6000, d_loss: 0.5664, PSNR: 25.9057, SSIM: 0.7674
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 119, g_loss: 8.5596, d_loss: 0.5659, PSNR: 25.8313, SSIM: 0.7670
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 120, g_loss: 8.5190, d_loss: 0.5653, PSNR: 26.0032, SSIM: 0.7677
+100%|██████████| 41/41 [00:26<00:00,  1.57it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 121, g_loss: 8.4791, d_loss: 0.5648, PSNR: 26.0970, SSIM: 0.7689
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 122, g_loss: 8.4404, d_loss: 0.5642, PSNR: 26.1392, SSIM: 0.7701
+100%|██████████| 41/41 [00:25<00:00,  1.59it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 123, g_loss: 8.4035, d_loss: 0.5637, PSNR: 25.9452, SSIM: 0.7688
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 124, g_loss: 8.3681, d_loss: 0.5632, PSNR: 25.8994, SSIM: 0.7696
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 125, g_loss: 8.3339, d_loss: 0.5627, PSNR: 25.7632, SSIM: 0.7692
+100%|██████████| 41/41 [00:25<00:00,  1.63it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 126, g_loss: 8.3000, d_loss: 0.5622, PSNR: 26.0966, SSIM: 0.7707
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 127, g_loss: 8.2642, d_loss: 0.5617, PSNR: 26.0210, SSIM: 0.7722
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 128, g_loss: 8.2270, d_loss: 0.5613, PSNR: 26.2229, SSIM: 0.7728
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 129, g_loss: 8.1892, d_loss: 0.5608, PSNR: 26.3813, SSIM: 0.7730
+100%|██████████| 41/41 [00:25<00:00,  1.60it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 130, g_loss: 8.1517, d_loss: 0.5603, PSNR: 26.2779, SSIM: 0.7728
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 131, g_loss: 8.1149, d_loss: 0.5599, PSNR: 26.2212, SSIM: 0.7726
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 132, g_loss: 8.0788, d_loss: 0.5594, PSNR: 26.2512, SSIM: 0.7732
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 133, g_loss: 8.0437, d_loss: 0.5590, PSNR: 26.3602, SSIM: 0.7736
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 134, g_loss: 8.0094, d_loss: 0.5585, PSNR: 26.2801, SSIM: 0.7722
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 135, g_loss: 28.3697, d_loss: 0.5659, PSNR: 7.9651, SSIM: 0.2371
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 136, g_loss: 49.3888, d_loss: 0.5724, PSNR: 7.1288, SSIM: 0.1621
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 137, g_loss: 50.0964, d_loss: 0.5728, PSNR: 9.4917, SSIM: 0.2348
+100%|██████████| 41/41 [00:25<00:00,  1.63it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 138, g_loss: 50.3521, d_loss: 0.5723, PSNR: 9.6251, SSIM: 0.2391
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 139, g_loss: 50.5331, d_loss: 0.5718, PSNR: 10.0282, SSIM: 0.2619
+100%|██████████| 41/41 [00:25<00:00,  1.61it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 140, g_loss: 50.6391, d_loss: 0.5713, PSNR: 10.4329, SSIM: 0.2926
+100%|██████████| 41/41 [00:25<00:00,  1.62it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 141, g_loss: 50.7147, d_loss: 0.5708, PSNR: 10.9316, SSIM: 0.3534
+100%|██████████| 41/41 [00:25<00:00,  1.63it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 142, g_loss: 50.7389, d_loss: 0.5703, PSNR: 11.8823, SSIM: 0.4241
+100%|██████████| 41/41 [00:26<00:00,  1.54it/s]
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Epoch: 143, g_loss: 50.7464, d_loss: 0.5699, PSNR: 12.3670, SSIM: 0.4512
+ 37%|███▋      | 15/41 [00:09<00:17,  1.52it/s]
+---------------------------------------------------------------------------
+KeyboardInterrupt                         Traceback (most recent call last)
+<ipython-input-31-7b0651b03dd1> in <cell line: 0>()
+     90 
+     91             image_features = vgg.predict(hr_imgs, verbose=0)
+---> 92             loss = gan_model.train_on_batch([lr_imgs, hr_imgs], [real_label, image_features])
+     93             g_loss = loss[0]
+     94 
+
+4 frames
+/usr/local/lib/python3.11/dist-packages/keras/src/backend/tensorflow/trainer.py in <lambda>(x)
+    600 
+    601         logs = self.train_function(data())
+--> 602         logs = tree.map_structure(lambda x: np.array(x), logs)
+    603         if return_dict:
+    604             return
