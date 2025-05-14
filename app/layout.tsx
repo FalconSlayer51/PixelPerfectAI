@@ -1,35 +1,38 @@
-import type React from "react";
-import type { Metadata } from "next";
-import { GeistSans } from "geist/font/sans";
-import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider";
+import { Inter } from "next/font/google"
+import { AuthProvider } from "@/lib/auth-context"
+import { ThemeProvider } from "@/components/theme-provider"
+import { Toaster } from "sonner"
+import "./globals.css"
 
-export const metadata: Metadata = {
-  title: "SRGAN - Super Resolution Image Enhancement",
-  description:
-    "Transform low-resolution images with our state-of-the-art SRGAN technology",
-  generator: "v0.dev",
-};
+const inter = Inter({ subsets: ["latin"] })
+
+export const metadata = {
+  title: "SRGAN - Super Resolution GAN",
+  description: "Enhance your images with AI-powered super resolution",
+}
 
 export default function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+}: {
+  children: React.ReactNode
+}) {
   return (
-    <html lang="en" className="scroll-smooth" suppressHydrationWarning>
-      <body className={`${GeistSans.className} antialiased`}>
+    <html lang="en" suppressHydrationWarning>
+      <body className={inter.className}>
         <ThemeProvider
           attribute="class"
-          defaultTheme="dark"
+          defaultTheme="system"
           enableSystem
           disableTransitionOnChange
         >
-          {children}
+          <AuthProvider>
+            {children}
+            <Toaster />
+          </AuthProvider>
         </ThemeProvider>
       </body>
     </html>
-  );
+  )
 }
 
 import "./globals.css";

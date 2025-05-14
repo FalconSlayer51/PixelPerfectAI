@@ -171,7 +171,6 @@ export default function Home() {
                     />
                   </div>
                   <h3 className="text-lg font-bold">{member.name}</h3>
-                  <p className="text-muted-foreground">{member.role}</p>
                 </div>
               ))}
             </div>
